@@ -1,0 +1,24 @@
+body {
+    background-color:  #99ff00;
+}
+
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+.div1 {
+    background: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    height: 280px;
+    width: 800px;
+    padding: 30px 20px 430px;
+    margin: 450px 50px 10px;
+    border: 10px solid #fff;
+}
+
+.Boton1 {
+    background-color: #3498db;
+    padding: 20px 20px;
+	color: white;
+    font-size:30px;
+    font-family: 'Rubik One', sans-serif;
+}

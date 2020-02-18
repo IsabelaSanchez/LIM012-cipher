@@ -2,13 +2,45 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
+    <title>Cifrado de Ayuda</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+  <body> 
+  
+
+    <div id="primeraPag" class="div1">
+        <h1>Bienvenid@</h1>
+        <h2>Este es un espacio seguro. Ayudanos a vencer el Bullying y Cyberbullying. Cifra información de algún ataque o descifra un mensaje de ayuda. Comunicate con los profesores, mediante la plataforma de la escuela y ayuda a tus compañeros.</h2>
+        <h3>¿Deseas Cifrar o Descrifrar un mensaje?</h3>
+        <input type="button"class="Boton1" value="Deseo cifrar un mensaje"id="btn2P">
+        <input type="button" value="Deseo descifrar un mensaje"id="btn3P">
+    </div>
+
+
+    <div id="cifradoPag" >
+        <h1>Este es un espacio seguro. Cifra tu mensaje.</h1> 
+        <h2>Elige aquí el número de desplazamiento de cada caracter:</h2>
+        <input type="number" id="inputNumero"> 
+        <h2>Ingresa el mensaje</h2>
+        <textarea id="textMensaje"></textarea>
+        <input type="button" value="Cifrar"id="btnCifrar">
+        <input type="button" value="Volver"id="btnVolver">
+        <h2 id="respuestaEscrita"></h2>
+    </div>
+
+
+    <div id="descifradoPag" class="hide">
+         <h1>Este es un espacio seguro.Descifra tu mensaje.</h1>
+         <h2>Elige aquí el número de desplazamiento de cada caracter:</h2>
+         <input type="number" id="inputNumero2">
+         <h2>Ingresa el mensaje</h2>
+         <textarea id="textMensaje2"></textarea>
+         <input type="button" value="Descifrar" id="btnDescifrar">
+         <input type="button" value="Volver"id="btnVolver2">
+         <h2 id="respuestaEscrita2"></h2>
+
+    </div>
+
     <script src="index.js" type="module"></script>
   </body>
 </html>
