@@ -1,28 +1,28 @@
 const cipher = {}
 
-cipher.cifrado = (men,num) =>{
-    let offset = parseInt(num);
-    let longitud=men.length;
+cipher.encode = (offset,string) =>{
+    let offset1 = parseInt(offset);
+    let longitud=string.length;
     let respuesta='';
     for(let i= 0;i<longitud;i++){
-      let codigoAsccii=men.charCodeAt(i);
+      let codigoAsccii=string.charCodeAt(i);
       if(codigoAsccii === 32){
         respuesta+=" ";
       }
       else{
-        let formula=(codigoAsccii-65+offset)%26+65;
+        let formula=(codigoAsccii-65+offset1)%26+65;
         respuesta+=String.fromCharCode(formula);
       }
     }
   
     return respuesta;
   }
-  cipher.descifrado = (mensaje,numero) =>{
-    let desplazamiento=parseInt(numero);
-    let longitud2=mensaje.length;
+  cipher.decode = (offset,string) =>{
+    let desplazamiento=parseInt(offset);
+    let longitud2=string.length;
     let solucion='';
     for(let a=0;a<longitud2;a++){
-      let cAscii=mensaje.charCodeAt(a);
+      let cAscii=string.charCodeAt(a);
       if(cAscii===32){
         solucion+='';
       }
