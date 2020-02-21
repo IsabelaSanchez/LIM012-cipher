@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Cifrado de Ayuda</title>
     <link rel="stylesheet" href="style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Montserrat&display=swap" rel="stylesheet">
   </head>
 
   <body>
@@ -13,34 +13,39 @@
       <h1 class="titulo">Cifrado de Ayuda</h1>
     </header>
 
-    <div id="primeraPag" class="div1">
 
-        <h1>Bienvenid@</h1>
+<div class="mamaDiv">
+
+
+    <div id="primeraPag" class="mostrar">    
+    <img id="imagen1" src="img/amistad.png">
+       <h1 id="mensajeBienvenido">Bienvenid@</h1>
         <h2>Este es un espacio seguro. </h2>
-        Ayudanos a vencer el Bullying y Cyberbullying. 
+        <p id="info1">Ayudanos a vencer el Bullying y Cyberbullying. 
           Cifra información de algún ataque o descifra un mensaje de ayuda. 
-          Comunicate con los profesores, mediante la plataforma de la escuela y ayuda a tus compañeros.
+          Comunicate con los profesores, mediante la plataforma de la escuela y ayuda a tus compañeros.</p>
         <h3>¿Deseas Cifrar o Descrifrar un mensaje?</h3>
-        <button class="Boton1" id="btn2P">Deseo cifrar un mensaje</button>
-        <button id="btn3P" class="Boton2">Deseo descifrar un mensaje</button>
+        <button class="Boton1" id="botonPagC">Deseo cifrar un mensaje</button>
+        <button id="botonPagD" class="Boton2">Deseo descifrar un mensaje</button>
     </div>
 
 
-    <div id="cifradoPag">
-        <h1>Este es un espacio seguro. Cifra tu mensaje.</h1> 
-        <h2>Elige aquí el número de desplazamiento de cada caracter:</h2>
+    <div id="cifradoPag" class="ocultar">
+        <img id="imagen2" src="img/llave.png">
+        <h1>Cifra tu mensaje.</h1> 
+        <h3>Elige aquí el número de desplazamiento de cada caracter:</h3>
         <input type="number" id="inputNumero"> 
-        <h2>Ingresa el mensaje</h2>
+        <h3>Ingresa el mensaje</h3>
         <textarea id="textMensaje"></textarea>
         <button id="btnCifrar">Cifrar</button>
-        <button id="btnVolver">Volver</button>
         <h2 id="respuestaEscrita"></h2>
+        <button id="btnVolver">Volver</button>
     </div>
 
 
-    <div id="descifradoPag" class="hide">
+    <div id="descifradoPag" class="ocultar">
          <h1>Este es un espacio seguro.Descifra tu mensaje.</h1>
-         <h2>Elige aquí el número de desplazamiento de cada caracter:</h2>
+         <h2>Elige aquí el número de desplazamiento de cada caractér:</h2>
          <input type="number" id="inputNumero2">
          <h2>Ingresa el mensaje</h2>
          <textarea id="textMensaje2"></textarea>
@@ -50,7 +55,7 @@
 
     </div>
     
-
+</div>
     <script src="index.js" type="module"></script>
   </body>
 
