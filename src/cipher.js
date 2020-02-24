@@ -34,8 +34,8 @@ cipher.encode = (offset,string) =>{
     let solucion='';
     for(let a=0;a<longitud2;a++){
       let cAscii=string.charCodeAt(a);
-      if(cAscii===32){
-        solucion+='';
+      if(cAscii === 32){
+        solucion+=" ";
       }
       else if(cAscii<=90 && cAscii>=65){
         let formula2=(cAscii-90-desplazamiento)%26+90;

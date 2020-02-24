@@ -163,6 +163,70 @@ font-family:'Josefin Sans';
   color: #339adf;
   font-weight: normal;
   font-size: 20px;
-  font-family: Arial;
+  font-family:'Josefin Sans';
+}
+
+#descifradoPag{
+grid-column-start: 2;
+grid-column-end: 3;
+grid-row-start: 2;
+grid-row-end: 3; 
+background-color:white;
+color:black;
+box-sizing: border-box;
+border: 3px solid#339adf;
+border-radius: 20px;
+text-align: center;
+line-height: 40px;
+}
+
+#imagen3{
+  margin-top:-80px;
+  margin-bottom:0px;
+  margin-right: 200px;
+  margin-left:200px;
+  width:150px;
+  border-radius:100px ;
+  border: solid #339adf 5px;
+}
+
+#inputNumero2{
+   width: 80px;
+  height:50px;
+  font-size:30px;
+  font-family:'Montserrat';
+}
+
+#textMensaje2{
+   width: 300px;
+  height:45px;
+  font-size:18px;
+  font-family:'Montserrat';
+}
+
+#btnDescifrar{
+  color: white;
+transition: all .5s;
+background-color: #339adf;
+width: 80px;
+height:25px;
+margin:0 auto;
+font-family:'Josefin Sans';
+}
+
+#btnVolver2{
+  color: white;
+transition: all .5s;
+background-color: #339adf;
+width: 80px;
+height:25px;
+margin:0 auto;
+font-family:'Josefin Sans';
+}
+
+#respuestaEscrita2{
+  color: #339adf;
+  font-weight: normal;
+  font-size: 20px;
   font-family:'Josefin Sans';
 }
