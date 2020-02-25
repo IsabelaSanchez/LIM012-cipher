@@ -167,8 +167,8 @@ Estos puntos los presentarás en el `README.md`.
 * FriendMe: Una plataforma segura para niños y adolescentes valientes que se paran y denuncian el Bullying o Cyberbullying.
 * Según el MINEDU, al día, 27 niños peruanos son víctimas de violencia escolar. Tras ver esta problemática y aprovechar las herramientas tecnológicas. Se creo una appweb, donde los alumnos podran cifrar y descrifrar mensajes de ayuda en caso de Bullying. Esta appweb estara enlazada con la plataforma de la escuela, que conecta a los profesores y padres de familia.
 * Imagen final de mi proyecto:
-  [imagen1](imagenes/pagina 1.png)
-  [imagen2](imagenes/pagina 2.png)
+  ![imagen1](imagenes/pagina 1.png)
+  ![imagen2](imagenes/pagina 2.png)
   [imagen3](imagenes/pagina 3.png)
 * Investigación UX:
   1. Los usuarios son:
@@ -177,8 +177,8 @@ Estos puntos los presentarás en el `README.md`.
       -Profesores o autoridades de colegio, que reciben un mensaje cifrado y usan la app para descifrar el mensaje de ayuda del alumno.
   2. Yo me enfoque más en los estudiantes, debido que los profesores son como un usuario ocasional. Basada en las experiencias que pude observar en la secundaria, aquellos alumnos que sufren bullying, nunca desean hablar del tema y detestan que otras se metan en sus asuntos. Los adolescentes, sienten que el hecho de que alguien les haga Bullying, es humillante y vergonzoso, por eso callan. Y si existe un amigo que desea hablar por el, intentan por todo modo no dejar que hablen. Es por ello que el proyecto de cifrado me parecio excelente, ya que es un medio por el cual, los alumnos confienzan sus miedos, pero en un mensaje secreto.
   3. Foto de tu primer prototipo en papel:
-    [imagen4](imagenes/prototipo papel 1 y 2.jpg)
-    [imagen5](imagenes/prototipo papel 3.jpg)
+    ![imagen4](imagenes/prototipo papel 1 y 2.jpg)
+    ![imagen5](imagenes/prototipo papel 3.jpg)
   4. Feedback:
       -Usa una imagen en el fondo
       -Pon un boton para ir a la pagina principal, ya que el mensaje debe ser enviado ahí.
@@ -186,7 +186,7 @@ Estos puntos los presentarás en el `README.md`.
       -Elige un nombre para el proyecto.(Antes solo se llamaba Cifrado de Ayuda, es que no habia nombre :c)
       -Pon el nombre del proyecto en el header.
   5. Imagen del prototipo final:
-    [imagen6](imagenes/figma ultimo prototipo.png)
+    ![imagen6](imagenes/figma ultimo prototipo.png)
 
 
 #### Visualmente (HTML y CSS)
