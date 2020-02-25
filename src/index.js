@@ -7,7 +7,7 @@ botonCifrado.addEventListener("click",() =>{
   let valorMensaje= document.getElementById("textMensaje").value;
   let valorNumero=document.getElementById("inputNumero").value;
   let mensajeCifrado=cipher.encode(valorNumero,valorMensaje);
-  console.log(mensajeCifrado);
+  
 
   document.getElementById("respuestaEscrita").innerHTML="En un lenguaje secreto, "+valorMensaje+" significa "+mensajeCifrado
 });
@@ -21,7 +21,7 @@ botonDescifrar.addEventListener("click",()=>{
   let valorMensaje2=document.getElementById("textMensaje2").value;
   let valorNumero2=document.getElementById("inputNumero2").value;
   let mensajeDescifrado=cipher.decode(valorNumero2,valorMensaje2);
-  console.log(mensajeDescifrado)
+  
   document.getElementById("respuestaEscrita2").innerHTML="Descifrado "+ valorMensaje2+", significa: "+ mensajeDescifrado
 
 });
