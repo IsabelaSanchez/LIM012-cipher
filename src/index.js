@@ -7,7 +7,6 @@ botonCifrado.addEventListener("click",() =>{
   let valorMensaje= document.getElementById("textMensaje").value;
   let valorNumero=document.getElementById("inputNumero").value;
   let mensajeCifrado=cipher.encode(valorNumero,valorMensaje);
-  console.log(mensajeCifrado);
   document.getElementById("infoDeMensaje1").innerHTML="Copia este mensaje en la plataforma de la escuela:";
   document.getElementById("respuestaEscrita").innerHTML="FriendMe: "+mensajeCifrado+"/ Nivel de Seguridad: "+ valorNumero
   document.getElementById("infoDeMensaje1").classList.remove("ocultar");
@@ -23,7 +22,6 @@ botonDescifrar.addEventListener("click",()=>{
   let valorMensaje2=document.getElementById("textMensaje2").value;
   let valorNumero2=document.getElementById("inputNumero2").value;
   let mensajeDescifrado=cipher.decode(valorNumero2,valorMensaje2);
-  console.log(mensajeDescifrado);
   document.getElementById("infoDeMensaje2").innerHTML="El mensaje descifrado:";
   document.getElementById("respuestaEscrita2").innerHTML="FriendMe: "+ mensajeDescifrado +"/ Nivel de Seguridad: "+ valorNumero2
   document.getElementById("infoDeMensaje2").classList.remove("ocultar");

@@ -271,7 +271,25 @@ outline: none;
 border-radius: 30px;
 }
 
-
+#btnLink2{
+  transition: all .5s;
+  background-color: #339adf;
+  width: 210px;
+  height:25px;
+  margin:0 auto;
+  font-family:'Josefin Sans';
+  outline: none;
+  border-radius: 30px;
+  
+  }
+  
+  #aLink2{
+  background-color: #339adf;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+   
+  }
 #infoDeMensaje2{
   background-color: #FFC433;
   border-radius: 30px;

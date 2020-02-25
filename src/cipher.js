@@ -1,14 +1,12 @@
 const cipher = {}
 
 cipher.encode = (offset,string) =>{
-  
+  if (offset===0||offset==''||string===0||string==''){
+    throw new TypeError("Necesitas insertar un dato");
+    }
     let offset1 = parseInt(offset);
     let longitud=string.length;
     let respuesta='';
-    //if (string==''||string==0||offset==0||offset==''){
-      //respuesta= throw new TypeError;
-    //}
-
     for(let i= 0;i<longitud;i++){
       let codigoAsccii=string.charCodeAt(i);
       if(codigoAsccii === 32){
@@ -29,6 +27,9 @@ cipher.encode = (offset,string) =>{
     return respuesta;
   }
   cipher.decode = (offset,string) =>{
+    if (offset===0||offset==''||string===0||string==''){
+      throw new TypeError()
+      }
     let desplazamiento=parseInt(offset);
     let longitud2=string.length;
     let solucion='';
