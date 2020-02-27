@@ -5,6 +5,7 @@
     <title>FriendMe</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="shortcut icon" type="image/png" href="icono.png">
+    <script src="https://kit.fontawesome.com/da0572ec61.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans|Montserrat&display=swap" rel="stylesheet">
   </head>
 
@@ -25,7 +26,7 @@
         <p id="info1">Ayudanos a vencer el Bullying y Cyberbullying. 
           Cifra información de algún ataque o descifra un mensaje de ayuda. 
           Comunicate con los profesores, mediante la plataforma de la escuela y ayuda a tus compañeros.</p>
-        <h3>¿Deseas Cifrar o Descrifrar un mensaje?</h3>
+        <h3><i class="fas fa-key" id="iconollave"></i>¿Deseas Cifrar o Descrifrar un mensaje?<i class="fas fa-unlock-alt" id="iconocandado"></i></h3>
         <button class="Boton1" id="botonPagC">Deseo cifrar un mensaje</button>
         <button id="botonPagD" class="Boton2">Deseo descifrar un mensaje</button>
     </div>
@@ -38,9 +39,9 @@
         <input type="number" id="inputNumero"> 
         <h3>Ingresa el mensaje</h3>
         <textarea id="textMensaje"></textarea>
-        <button id="btnCifrar">Cifrar</button>
+        <button id="btnCifrar"><i class="fas fa-key"></i> Cifrar</button>
         <p id="infoDeMensaje1"><h3 id="respuestaEscrita"></h3></p>
-        <button id="btnVolver">Volver</button>
+        <button id="btnVolver"><i class="fas fa-arrow-circle-left"></i></button>
         <button class="btn" id="btnLink1" type="submit"><a class="btn" id="aLink1"
           href="https://innovafamily.pe/">Ir a la plataforma de la escuela</a></button>
 
@@ -54,9 +55,9 @@
          <input type="number" id="inputNumero2">
          <h3>Ingresa el mensaje</h3>
          <textarea id="textMensaje2"></textarea>
-         <input type="button" value="Descifrar" id="btnDescifrar">
+         <button id="btnDescifrar"><i class="fas fa-unlock-alt"></i> Descifrar</button>
          <p id="infoDeMensaje2"><h3 id="respuestaEscrita2"></h3></p>
-        <input type="button" value="Volver" id="btnVolver2">
+         <button id="btnVolver2"><i class="fas fa-arrow-circle-left"></i></button>
         <button class="btn" id="btnLink2" type="submit"><a class="btn" id="aLink2"
           href="https://innovafamily.pe/">Ir a la plataforma de la escuela</a></button>
     </div>

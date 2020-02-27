@@ -71,8 +71,19 @@ text-align: center;
 }
 
 #mensajeBienvenido{
-  text-align: center;
+text-align: center;
 }
+
+#iconollave{
+color: #FF7F50;
+margin:10px;
+}
+
+#iconocandado{
+color: #FF7F50;
+margin:10px;
+}
+
 #info1{
 font-family:'Montserrat';
 }
@@ -90,6 +101,12 @@ outline: none;
 
 }
 
+.Boton2:hover{
+background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
+
 .Boton1 {
 color: white;
 transition: all .5s;
@@ -102,7 +119,11 @@ border-radius: 30px;
 outline: none;
 }
 
-
+.Boton1:hover{
+  background: #fff;
+  color: #339adf;
+  box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+  }
 
 #cifradoPag{
 grid-column-start: 2;
@@ -153,16 +174,29 @@ outline: none;
 border-radius: 30px;
 }
 
+#btnCifrar:hover{
+  background: #fff;
+  color: #339adf;
+  box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
+
 #btnVolver{
 color: white;
 transition: all .5s;
 background-color: #339adf;
-width: 80px;
+width: 40px;
 height:25px;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
+font-size: 100%;
+}
+
+#btnVolver:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
 #btnLink1{
@@ -177,12 +211,24 @@ border-radius: 30px;
 
 }
 
+#btnLink1:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
+
 #aLink1{
 background-color: #339adf;
 color: white;
 text-decoration: none;
 display: inline-block;
  
+}
+
+#aLink1:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
 #infoDeMensaje1{
@@ -259,18 +305,30 @@ outline: none;
 border-radius: 30px;
 }
 
+#btnDescifrar:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
+
 #btnVolver2{
-  color: white;
+color: white;
 transition: all .5s;
 background-color: #339adf;
-width: 80px;
+width: 40px;
 height:25px;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
+font-size: 100%;
 }
 
+#btnVolver2:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
 #btnLink2{
   transition: all .5s;
   background-color: #339adf;
@@ -282,14 +340,25 @@ border-radius: 30px;
   border-radius: 30px;
   
   }
-  
-  #aLink2{
-  background-color: #339adf;
-  color: white;
+
+#btnLink2:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
+
+#aLink2{
   text-decoration: none;
   display: inline-block;
+  color:white;
    
-  }
+}
+
+#aLink2:hover{
+  background: #fff;
+color: #339adf;
+box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
+}
 #infoDeMensaje2{
   background-color: #FFC433;
   border-radius: 30px;
