@@ -23,38 +23,70 @@
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
+* [1. AppWeb:FriendMe](#1-appweb:friendme)
 * [2. Objetivos de aprendizaje](#2-objetivos-de-aprendizaje)
 
 ***
 
-## 1. Preámbulo
+## 1. App Web: FriendMe
 
-Cifrar significa codificar. El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher)
-es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio
-César lo usaba para enviar órdenes secretas a sus generales en los campos de
-batalla.
 
-![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
 
-El cifrado césar es una de las técnicas más simples para cifrar un mensaje. Es
-un tipo de cifrado por sustitución, es decir que cada letra del texto original
-es reemplazada por otra que se encuentra un número fijo de posiciones
-(desplazamiento) más adelante en el mismo alfabeto.
+* FriendMe: Una plataforma segura para niños y adolescentes valientes que se paran y denuncian el Bullying o Cyberbullying.
 
-Por ejemplo, si usamos un desplazamiento (_offset_) de 3 posiciones:
 
-* La letra A se cifra como D.
-* La palabra CASA se cifra como FDVD.
-* Alfabeto sin cifrar: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-* Alfabeto cifrado: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
 
-En la actualidad, todos los cifrados de sustitución simple se descifran con
-mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la
-comunicación por sí mismos; el cifrado César sí puede formar parte de sistemas
-más complejos de codificación, como el cifrado Vigenère, e incluso tiene
-aplicación en el sistema ROT13.
+* Resumen:
 
+
+Según el MINEDU, al día, 27 niños peruanos son víctimas de violencia escolar. Tras ver esta problemática y aprovechar las herramientas tecnológicas. Se creo una appweb, donde los alumnos podran cifrar y descrifrar mensajes de ayuda en caso de Bullying. Esta appweb estara enlazada con la plataforma de la escuela, que conecta a los profesores y padres de familia.
+
+
+
+* Imagen final de mi proyecto:
+  ![imagen1](imagenes/pagina1.png)
+  ![imagen2](imagenes/pagina2.png)
+  ![imagen3](imagenes/pagina3.png)
+
+
+* Investigación UX:
+
+  1. Los usuarios son:
+
+      * Alumnos victima de Bullying o Cyberbullying.
+
+      * Alumnos testigo de Bullying o Cyberbullying.
+
+      * Profesores o autoridades de colegio, que reciben un mensaje cifrado y usan la app para descifrar el mensaje de ayuda del alumno.
+
+  2. Yo me enfoque más en los estudiantes, debido que los profesores son como un usuario ocasional. Basada en las experiencias que pude observar en alumnos que sufren bullying(incluso alguien muy cercano a mi), nunca desean hablar del tema y detestan que otras se metan en sus asuntos. Los adolescentes, sienten que el hecho de que alguien les haga Bullying, es humillante y vergonzoso, por eso callan. Y si existe un amigo que desea hablar por el, intentan por todo modo no dejar que hablen. Es por ello que el proyecto de cifrado me parecio excelente, ya que es un medio por el cual, los alumnos confienzan sus miedos, pero en un mensaje secreto. Gracias a la app de la escuela, pueden enviar los mensajes cifrados en tiempo real a los profesores y así frenar casos de Bullying.
+
+  3. Foto de tu primer prototipo en papel:
+    ![imagen4](imagenes/prototipoPapel1y2.jpg)
+    ![imagen5](imagenes/prototipoPapel3.jpg)
+  
+  4. Feedback:
+      * Usa una imagen en el fondo
+      * Pon un boton para ir a la pagina principal de la escuela, ya que el mensaje debe ser enviado ahí.
+      * El boton volver debe estar abajo del mensaje Cifrado/Descifrado
+      * Elige un nombre para el proyecto.(Antes solo se llamaba Cifrado de Ayuda, es que no habia nombre :c)
+      * Pon el nombre del proyecto en el header.
+
+  5. Imagen del prototipo final hecho en Figma:
+    ![imagen6](imagenes/figmaUltimoPrototipo.png)
+    * El protipo esta hecho como app de celular, porque creí que era para dispositivos moviles.
+  
+  6. ¿Cómo esta AppWeb soluciona la problemática?
+   * Ya que esta conectado a la app de la escuela, cada estudiante tiene su usuario con datos y cuando envian un mensaje, el profesor ya puede saber el nombre de la victima, espectador o Bully, junto con sus datos(en que grado esta, quien es su tutor y por que no esta actuando ante este caso).
+   * La confianza que les genera a las victimas, al ser mensajes secretos, pueden acusar a sus Bullys mencionando nombres y grados, sin tener miedo a que alguien lea los mensajes. Esto hace más sencilla la labor del equipo de psicólogos del colegio, ya que guardan una data de cuantos casos de Bullying son hechos por el mismo alumno.
+   * Es una app libre para todo estudiante, los espectadores de Bullying pueden reportar casos de todo los grados y de diferentes salones.
+   * Tiene un diseño moderno y fresco que hace sentir comodo al usuario.
+   * Actualmente hay muchas escuelas particulares que permiten el uso de celulares en las aulas. Todo los estudiantes tienen el app de la escuela descargada(debido a qué ahí tienen su calendario de tareas y examenes), como el app FriendMe esta enlazada con el app de la escuela. Los casos son reportados con más rápides.
+   * En caso de colegios nacionales, desde el año pasado un buen grupo de colegios ha actualizado sus aulas y tienen una laptop por salon. Todo los colegios sean particulares o estatales tienen acceso rápido a la plataforma FriendMe.
+   * Tras detectar casos más rápido, la intervención es inmediata y logramos generar un buen clima escolar-
+   * Tanto los bullys, las victimas y espectadores reciben ayuda psicológica tras ser identificados.
+
+   
 ## 2. Objetivos de aprendizaje
 
 En este proyecto aprenderás a construir una aplicación web (_WebApp_) que
