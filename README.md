@@ -121,19 +121,19 @@ Reflexiona y luego marca los objetivos que has llegado a **entender** y
   ![imagen3](imagenes/pagina3.png)
 * Investigación UX:
   1. Los usuarios son:
-      -Alumnos victima de Bullying o Cyberbullying.
-      -Alumnos testigo de Bullying o Cyberbullying.
-      -Profesores o autoridades de colegio, que reciben un mensaje cifrado y usan la app para descifrar el mensaje de ayuda del alumno.
-  2. Yo me enfoque más en los estudiantes, debido que los profesores son como un usuario ocasional. Basada en las experiencias que pude observar en la secundaria, aquellos alumnos que sufren bullying, nunca desean hablar del tema y detestan que otras se metan en sus asuntos. Los adolescentes, sienten que el hecho de que alguien les haga Bullying, es humillante y vergonzoso, por eso callan. Y si existe un amigo que desea hablar por el, intentan por todo modo no dejar que hablen. Es por ello que el proyecto de cifrado me parecio excelente, ya que es un medio por el cual, los alumnos confienzan sus miedos, pero en un mensaje secreto.
+      * Alumnos victima de Bullying o Cyberbullying.
+      * Alumnos testigo de Bullying o Cyberbullying.
+      * Profesores o autoridades de colegio, que reciben un mensaje cifrado y usan la app para descifrar el mensaje de ayuda del alumno.
+  2. Yo me enfoque más en los estudiantes, debido que los profesores son como un usuario ocasional. Basada en las experiencias que pude observar en alumnos que sufren bullying(incluso alguien muy cercano a mi), nunca desean hablar del tema y detestan que otras se metan en sus asuntos. Los adolescentes, sienten que el hecho de que alguien les haga Bullying, es humillante y vergonzoso, por eso callan. Y si existe un amigo que desea hablar por el, intentan por todo modo no dejar que hablen. Es por ello que el proyecto de cifrado me parecio excelente, ya que es un medio por el cual, los alumnos confienzan sus miedos, pero en un mensaje secreto.
   3. Foto de tu primer prototipo en papel:
     ![imagen4](imagenes/prototipoPapel1y2.jpg)
     ![imagen5](imagenes/prototipoPapel3.jpg)
   4. Feedback:
-      -Usa una imagen en el fondo
-      -Pon un boton para ir a la pagina principal, ya que el mensaje debe ser enviado ahí.
-      -El boton volver debe estar abajo del mensaje Cifrado/Descifrado
-      -Elige un nombre para el proyecto.(Antes solo se llamaba Cifrado de Ayuda, es que no habia nombre :c)
-      -Pon el nombre del proyecto en el header.
+      * Usa una imagen en el fondo
+      * Pon un boton para ir a la pagina principal, ya que el mensaje debe ser enviado ahí.
+      * El boton volver debe estar abajo del mensaje Cifrado/Descifrado
+      * Elige un nombre para el proyecto.(Antes solo se llamaba Cifrado de Ayuda, es que no habia nombre :c)
+      * Pon el nombre del proyecto en el header.
   5. Imagen del prototipo final:
     ![imagen6](imagenes/figmaUltimoPrototipo.png)
 
