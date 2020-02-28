@@ -1,15 +1,25 @@
 # Cifrado César
 ¡Bienvenido este es mi primer proyecto en la bootcamp de Laboratoria! :D <3
+
 ![Gif1](imagenes/gatito.gif)
-Antes de empezar este proyecto, no tenía idea de que significaba cipher, había leído de criptografía en un cuento de Edgar Alan Poe y había escuchado el nombre "Cipher" en una caricatura, era un triangulito malvado que engañaba a todos con sus códigos.
+
+* Antes de empezar este proyecto, no tenía idea de que significaba cipher, había leído de criptografía en un cuento de Edgar Alan Poe y había escuchado el nombre "Cipher" en una caricatura, era un triangulito malvado que engañaba a todos con sus códigos.
+
 ![Gif2](imagenes/cipher.gif)
-Antes de que empiezen a revisar el proyecto, dejaré un gif que me represento en el primer sprint:
+
+* Antes de que empiezen a revisar el proyecto, dejaré un gif que me represento en el primer sprint:
+
 ![Gif3](imagenes/codigo.gif)
-Creo que esa semana mi garabato este a nivel saiyajin!!!(hasta el día miércoles de la segunda semana) Fue ahí cuando vi la luz.
+
+* Creo que esa semana mi garabato este a nivel saiyajin!!!(hasta el día miércoles de la segunda semana) Fue ahí cuando vi la luz.
+
 ![Gif4](imagenes/cool.gif)
-Y ahora puedo hackear el internet. ¡¡¡¡Fin :D!!!!
+
+* Y ahora puedo hackear el internet. ¡¡¡¡Fin :D!!!!
+
 ![Gif5](imagenes/hacker.gif)
-Es broma, falta mucho por aprender y estoy lista para más retos!!!
+
+* Es broma, falta mucho por aprender y estoy lista para más retos!!!
 
 ## Índice
 
