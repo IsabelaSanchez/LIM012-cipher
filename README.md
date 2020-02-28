@@ -217,7 +217,7 @@ mínimo del 50% de _branches_ (ramas).
 ***
 
 Agradecimientos Especiales:
-* A mi squad por que somos el exito!!!(No me separen de ella porfa!!)
+* A mi squad por que somos el exito!!!(No me separen de ellas porfa!!)
 * A Judith, porque me enseño como entender los bucles.
 * A Lulu, porque fue mi maestra del código. 
   Esta frase me recuerda a ella:"Regala un pescado a alguien hambriento y le quitaras el hambre de un día.
