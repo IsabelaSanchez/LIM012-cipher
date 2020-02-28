@@ -72,18 +72,40 @@ Según el MINEDU, al día, 27 niños peruanos son víctimas de violencia escolar
       * Elige un nombre para el proyecto.(Antes solo se llamaba Cifrado de Ayuda, es que no habia nombre :c)
       * Pon el nombre del proyecto en el header.
 
+
   5. Imagen del prototipo final hecho en Figma:
+
+
+
     ![imagen6](imagenes/figmaUltimoPrototipo.png)
+
+
     * El protipo esta hecho como app de celular, porque creí que era para dispositivos moviles.
   
   6. ¿Cómo esta AppWeb soluciona la problemática?
+
+
    * Ya que esta conectado a la app de la escuela, cada estudiante tiene su usuario con datos y cuando envian un mensaje, el profesor ya puede saber el nombre de la victima, espectador o Bully, junto con sus datos(en que grado esta, quien es su tutor y por que no esta actuando ante este caso).
+
+
    * La confianza que les genera a las victimas, al ser mensajes secretos, pueden acusar a sus Bullys mencionando nombres y grados, sin tener miedo a que alguien lea los mensajes. Esto hace más sencilla la labor del equipo de psicólogos del colegio, ya que guardan una data de cuantos casos de Bullying son hechos por el mismo alumno.
+   
+   
    * Es una app libre para todo estudiante, los espectadores de Bullying pueden reportar casos de todo los grados y de diferentes salones.
+   
+   
    * Tiene un diseño moderno y fresco que hace sentir comodo al usuario.
+   
+   
    * Actualmente hay muchas escuelas particulares que permiten el uso de celulares en las aulas. Todo los estudiantes tienen el app de la escuela descargada(debido a qué ahí tienen su calendario de tareas y examenes), como el app FriendMe esta enlazada con el app de la escuela. Los casos son reportados con más rápides.
+   
+   
    * En caso de colegios nacionales, desde el año pasado un buen grupo de colegios ha actualizado sus aulas y tienen una laptop por salon. Todo los colegios sean particulares o estatales tienen acceso rápido a la plataforma FriendMe.
+   
+   
    * Tras detectar casos más rápido, la intervención es inmediata y logramos generar un buen clima escolar-
+   
+   
    * Tanto los bullys, las victimas y espectadores reciben ayuda psicológica tras ser identificados.
 
    
