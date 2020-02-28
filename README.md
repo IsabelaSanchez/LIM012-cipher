@@ -1,5 +1,16 @@
 # Cifrado César
 ¡Bienvenido este es mi primer proyecto en la bootcamp de Laboratoria! :D <3
+![Gif1](imagenes/gatito.gif)
+Antes de empezar este proyecto, no tenía idea de que significaba cipher, había leído de criptografía en un cuento de Edgar Alan Poe y había escuchado el nombre "Cipher" en una caricatura, era un triangulito malvado que engañaba a todos con sus códigos.
+![Gif2](imagenes/cipher.gif)
+Antes de que empiezen a revisar el proyecto, dejaré un gif que me represento en el primer sprint:
+![Gif3](imagenes/codigo.gif)
+Creo que esa semana mi garabato este a nivel saiyajin!!!(hasta el día miércoles de la segunda semana) Fue ahí cuando vi la luz.
+![Gif4](imagenes/cool.gif)
+Y ahora puedo hackear el internet. ¡¡¡¡Fin :D!!!!
+![Gif5](imagenes/hacker.gif)
+Es broma, falta mucho por aprender y estoy lista para más retos!!!
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
@@ -194,3 +205,16 @@ _statements_ (sentencias), _functions_ (funciones) y _lines_ (líneas); y un
 mínimo del 50% de _branches_ (ramas).
 
 ***
+
+Agradecimientos Especiales:
+-A mi squad por que somos el exito!!!(No me separen de ella porfa!!)
+-A Judith, porque me enseño como entender los bucles.
+-A Lulu, porque fue mi maestra del código. 
+  Esta frase me recuerda a ella:"Regala un pescado a alguien hambriento y le quitaras el hambre de un día.
+  Enseñale a pescar a alguien hambriento y nunca tendra hambre en toda su vida."
+-A Betsy, que me enseño que mi lenght estaba mal escrito y por eso no funciona mi formula cipher!!!
+-A youtube, por el grid y el flex <3
+-A mi familia por ser mi motor y motivo.
+-Y a mi hermanita porque ella fue mi inspiración para luchar contra esta problemática.
+
+Eso fue todo por hoy amigas nos vemos en la próxima! Data Lovers allá voy!!

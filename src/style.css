@@ -65,7 +65,7 @@ grid-row-end: 6;
 background-color:white;
 color:black;
 box-sizing: border-box;
-border: 3px solid#4a83a8;
+border: 3px solid#339adf;
 border-radius: 20px;
 text-align: center;
 }
@@ -94,16 +94,17 @@ transition: all .5s;
 background-color: #339adf;
 width: 40%;
 margin:0 auto;
-height: 60%;
+height: 80%;
 font-family:'Montserrat';
 border-radius: 30px;
 outline: none;
+font-size: 90%;
 
 }
 
 .Boton2:hover{
-background: #fff;
-color: #339adf;
+background: #FF7F50;
+color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -113,15 +114,16 @@ transition: all .5s;
 background-color: #339adf;
 width: 40%;
 margin:0 auto;
-height: 60%;
+height: 80%;
 font-family:'Montserrat';
 border-radius: 30px;
 outline: none;
+font-size: 90%;
 }
 
 .Boton1:hover{
-  background: #fff;
-  color: #339adf;
+  background: #FF7F50;
+  color: #fff;
   box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
   }
 
@@ -167,16 +169,17 @@ color: white;
 transition: all .5s;
 background-color: #339adf;
 width: 80px;
-height:25px;
+height:7%;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
+font-size:90%;
 }
 
 #btnCifrar:hover{
-  background: #fff;
-  color: #339adf;
+  background: #FF7F50;
+  color: #fff;
   box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -185,7 +188,7 @@ color: white;
 transition: all .5s;
 background-color: #339adf;
 width: 40px;
-height:25px;
+height:7%;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
@@ -194,8 +197,8 @@ font-size: 100%;
 }
 
 #btnVolver:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -208,12 +211,11 @@ margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
-
 }
 
 #btnLink1:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -226,13 +228,13 @@ display: inline-block;
 }
 
 #aLink1:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
 #infoDeMensaje1{
-  background-color: #FFC433;
+  background-color: #FF7F50;
   border-radius: 30px;
   width: 80%;
   margin:0 auto;
@@ -297,17 +299,18 @@ line-height: 30px;
   color: white;
 transition: all .5s;
 background-color: #339adf;
-width: 80px;
-height:25px;
+width: 90px;
+height:7%;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
+font-size:90%;
 }
 
 #btnDescifrar:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -316,7 +319,7 @@ color: white;
 transition: all .5s;
 background-color: #339adf;
 width: 40px;
-height:25px;
+height:7%;
 margin:0 auto;
 font-family:'Josefin Sans';
 outline: none;
@@ -325,8 +328,8 @@ font-size: 100%;
 }
 
 #btnVolver2:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 #btnLink2{
@@ -342,8 +345,8 @@ box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
   }
 
 #btnLink2:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
@@ -355,12 +358,12 @@ box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 
 #aLink2:hover{
-  background: #fff;
-color: #339adf;
+  background: #FF7F50;
+  color: #fff;
 box-shadow: 3px 3px 50px black rgba(0, 0,0,.15);
 }
 #infoDeMensaje2{
-  background-color: #FFC433;
+  background-color: #FF7F50;
   border-radius: 30px;
   width: 80%;
   margin:0 auto;
