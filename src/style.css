@@ -70,8 +70,14 @@ border-radius: 20px;
 text-align: center;
 }
 
-#mensajeBienvenido{
+h1{
 text-align: center;
+}
+
+#pregunta1{
+font-family:'Josefin Sans', sans-serif;
+font-size: 120%;
+font-weight: bold;
 }
 
 #iconollave{
@@ -141,6 +147,12 @@ text-align: center;
 line-height: 30px;
 }
 
+infoCifrado1{
+  font-family:'Josefin Sans', sans-serif;
+  font-size: 120%;
+  font-weight: bold;
+}
+
 #imagen2{
   margin-top:-80px;
   margin-bottom:0px;
@@ -175,6 +187,12 @@ font-family:'Josefin Sans';
 outline: none;
 border-radius: 30px;
 font-size:90%;
+}
+
+#infoMensajeCifrado{
+  font-family:'Josefin Sans', sans-serif;
+  font-size: 120%;
+  font-weight: bold;  
 }
 
 #btnCifrar:hover{
